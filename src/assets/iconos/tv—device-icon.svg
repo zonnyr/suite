@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-tv_device-icon">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="tv_device-icon" data-name="tv—device-icon" clip-path="url(#clip-tv_device-icon)">
+    <g id="tv-black-24dp">
+      <path id="Path_25" data-name="Path 25" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_26" data-name="Path 26" d="M21.26,3H3.026A2.068,2.068,0,0,0,1,5.1V17.667a2.068,2.068,0,0,0,2.026,2.1H8.091v2.1h8.1v-2.1H21.26a2.059,2.059,0,0,0,2.016-2.1L23.286,5.1A2.068,2.068,0,0,0,21.26,3Zm0,14.667H3.026V5.1H21.26Z" transform="translate(-0.143 -0.429)" fill="#0b1142"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-Google-cromecast-icon">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Google-cromecast-icon" clip-path="url(#clip-Google-cromecast-icon)">
+    <g id="cast-black-24dp">
+      <path id="Path_3" data-name="Path 3" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_4" data-name="Path 4" d="M0,0H24V24H0Z" fill="none" opacity="0.1"/>
+      <path id="Path_5" data-name="Path 5" d="M21,3H3A2.006,2.006,0,0,0,1,5V8H3V5H21V19H14v2h7a2.006,2.006,0,0,0,2-2V5A2.006,2.006,0,0,0,21,3ZM1,18v3H4A3,3,0,0,0,1,18Zm0-4v2a5,5,0,0,1,5,5H8A7,7,0,0,0,1,14Zm0-4v2a9,9,0,0,1,9,9h2A11,11,0,0,0,1,10Z" transform="translate(0 0)" fill="#0b1142"/>
+    </g>
+  </g>
+</svg>

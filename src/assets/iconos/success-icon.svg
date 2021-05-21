@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-check-icon">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="check-icon" clip-path="url(#clip-check-icon)">
+    <g id="tv-black-24dp">
+      <path id="Path_25" data-name="Path 25" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="check-icon-2" data-name="check-icon" d="M9.567,11.879,8.1,13.35l4.725,4.725,10.5-10.5-1.47-1.47-9.03,8.974Zm12.708,2a8.364,8.364,0,1,1-6.09-8.085l1.628-1.628a9.764,9.764,0,0,0-3.938-.788,10.5,10.5,0,1,0,10.5,10.5Z" transform="translate(-1.875 -1.874)" fill="#0a1441"/>
+    </g>
+  </g>
+</svg>

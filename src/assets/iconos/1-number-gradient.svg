@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.07" x2="0.5" y2="9.365" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#04cff6"/>
+      <stop offset="1" stop-color="#4574e9"/>
+    </linearGradient>
+    <clipPath id="clip-_1-number-gradient">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="_1-number-gradient" data-name="1-number-gradient" clip-path="url(#clip-_1-number-gradient)">
+    <g id="tv-black-24dp">
+      <path id="Path_25" data-name="Path 25" d="M0,0H48V48H0Z" fill="none"/>
+      <path id="Path_196" data-name="Path 196" d="M1.344-35.845l1.74,7.633L9.719-30.03V3.226h8.267V-39.48H12.276Z" transform="translate(10.656 42.173)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

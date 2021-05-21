@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-3.54" x2="0.5" y2="6.061" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#04cff6"/>
+      <stop offset="1" stop-color="#4574e9"/>
+    </linearGradient>
+    <clipPath id="clip-_2-number-gradient">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="_2-number-gradient" data-name="2-number-gradient" clip-path="url(#clip-_2-number-gradient)">
+    <g id="tv-black-24dp">
+      <path id="Path_25" data-name="Path 25" d="M0,0H48V48H0Z" fill="none"/>
+      <path id="Path_195" data-name="Path 195" d="M18.144-31.586a5.854,5.854,0,0,1,4.028,1.362,5.1,5.1,0,0,1,1.54,4.028,7.192,7.192,0,0,1-.385,2.4,8.587,8.587,0,0,1-1.244,2.251,18.534,18.534,0,0,1-2.221,2.428q-1.362,1.273-3.317,2.873L2.744-4.932V2.294H33.426V-5.584H15.36L22.113-10.8q2.725-2.132,4.8-3.939a22.181,22.181,0,0,0,3.406-3.643,14.26,14.26,0,0,0,2.014-3.88,14.675,14.675,0,0,0,.681-4.65,13.7,13.7,0,0,0-.977-5.272,11.112,11.112,0,0,0-2.843-4.057,12.979,12.979,0,0,0-4.5-2.606,18.03,18.03,0,0,0-5.953-.918,20.059,20.059,0,0,0-4.975.563,14.715,14.715,0,0,0-4,1.658,17.3,17.3,0,0,0-3.376,2.7,35.206,35.206,0,0,0-3.11,3.672l6.4,5.153a23.893,23.893,0,0,1,4.176-4.205A7.092,7.092,0,0,1,18.144-31.586Z" transform="translate(5.256 42.722)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

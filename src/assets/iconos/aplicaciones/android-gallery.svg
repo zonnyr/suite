@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_158" data-name="Path 158" d="M1440.266,716.9c1.759-8.51,7.171-13.25,15.614-14.682a54.47,54.47,0,0,1,18.714.03c8.692,1.537,13.918,6.553,15.583,15.192a52,52,0,0,1-.021,20.094c-1.78,8.451-7.332,13.668-15.743,15.095a54.466,54.466,0,0,1-18.714-.03c-8.693-1.537-13.942-6.8-15.606-15.442A50.33,50.33,0,0,1,1440.266,716.9Z" transform="translate(-1439.147 -701.426)" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_203" data-name="Rectangle 203" width="59.459" height="59.666" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_159" data-name="Path 159" d="M1473.414,715.5c2.938,0,5.32,4.748,5.32,10.6,0,.039,0,.077,0,.116l-2.085.862c-.016-4.871-1.5-9.386-3.315-9.386s-3.3,3.979-3.3,8.886c0,.426.012.845.033,1.255-.443-.261-.905-.514-1.387-.755-4.375-2.194-8.583-2.645-9.4-1.006-.518,1.04.456,2.67,2.352,4.283l-1.89.9c-2.219-2.171-3.23-4.541-2.385-6.239,1.227-2.464,5.93-2.639,10.8-.518C1468.541,719.409,1470.749,715.5,1473.414,715.5Zm8.981,7.914c2.985-.84,5.7-.617,6.745.968,1.51,2.3-.695,6.472-4.964,9.638,4.2,2.89,6.466,6.765,5.131,9.08-1.472,2.552-7.109,2.125-12.16-.809l-.1-.059.437-1.991c4.209,2.427,9.059,3.264,9.968,1.688s-1.775-4.863-6.008-7.322q-.552-.321-1.1-.6.67-.381,1.347-.826c4.084-2.7,6.58-6.129,5.576-7.658-.637-.97-2.531-.941-4.872-.1Zm-18.206,9.549,1.769,1.482c-4.233,2.384-7.445,5.81-6.561,7.4s5.071.96,9.343-1.428q.557-.312,1.077-.641c-.011.515-.006,1.044.018,1.583.219,4.9,1.875,8.81,3.7,8.729,1.157-.052,2.1-1.7,2.583-4.147l1.705,1.218c-.811,3-2.381,5.043-4.27,5.128-2.742.123-5.184-3.914-5.708-9.215-4.625,2.142-9.1,2.107-10.4-.229-1.431-2.576,1.543-6.975,6.642-9.826Z" transform="translate(-1457.057 -715.502)" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-android-gallery">
+      <rect width="52" height="52"/>
+    </clipPath>
+  </defs>
+  <g id="android-gallery" clip-path="url(#clip-android-gallery)">
+    <g id="Group_750" data-name="Group 750" transform="translate(-1035.043 -3462.056)">
+      <g id="Group_740" data-name="Group 740" transform="translate(1035.043 3462.056)">
+        <g id="Group_735" data-name="Group 735">
+          <g id="Group_734" data-name="Group 734" clip-path="url(#clip-path)">
+            <g id="Group_733" data-name="Group 733" transform="translate(-3.716 -3.846)">
+              <g id="Group_732" data-name="Group 732" clip-path="url(#clip-path-2)">
+                <rect id="Rectangle_202" data-name="Rectangle 202" width="53.161" height="53.165" transform="translate(3.136 3.263)" fill="#ffc207"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_739" data-name="Group 739" transform="translate(9.679 7.633)">
+          <g id="Group_738" data-name="Group 738" clip-path="url(#clip-path-3)">
+            <g id="Group_737" data-name="Group 737" transform="translate(-13.395 -11.479)">
+              <g id="Group_736" data-name="Group 736" clip-path="url(#clip-path-2)">
+                <rect id="Rectangle_204" data-name="Rectangle 204" width="33.794" height="37.957" transform="translate(12.815 10.896)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
